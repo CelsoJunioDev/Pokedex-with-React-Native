@@ -1,8 +1,8 @@
 ## POKEDEX - veja os detalhes de qualquer pokemon
 <p align="left">
-<img alt="CourseApp" src="/screenshots/img01.PNG" width="281" height="500"/>
+<img alt="CourseApp" src="/screenshots/img01.PNG" width="275" height="500"/>
 <img alt="CourseApp" src="/screenshots/gif.gif"/>
-<img alt="CourseApp" src="/screenshots/img02.PNG" width="281" height="500" />
+<img alt="CourseApp" src="/screenshots/img02.PNG" width="275" height="500" />
 </p>
 
 ## :rocket: Tecnologias
